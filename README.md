@@ -33,10 +33,10 @@ For styling, I often use:
  ![StyledComponents](https://img.shields.io/badge/-StyledComponents-black?style=flat-square&logo=styledcomponents)
 
 ## 🔗 Social Accounts
- [GitHub](https://github.com/sovereignofficial)
+ [GitHub](https://github.com/egemenakdan)
  [LinkedIn](https://www.linkedin.com/in/egemenakdan/)
  [Facebook](https://www.facebook.com/profile.php?id=100073223918748)
  [Blog](https://bento.me/sovereignofficial/)
 
 ## 📈 GitHub Streaks
-![Egemen's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=sovereignofficial&theme=dark&hide_border=true)
+![Egemen's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=egemenakdan&theme=dark&hide_border=true)
