@@ -1,5 +1,5 @@
 # Hi, I'm Egemen Akdan 👋
-![GitHub followers](https://img.shields.io/github/followers/sovereignofficial?style=social)
+![GitHub followers](https://img.shields.io/github/followers/egemenakdan?style=social)
 
 I'm a Software Developer with a passion for creating dynamic websites. I specialize in frontend technologies such as:
 
