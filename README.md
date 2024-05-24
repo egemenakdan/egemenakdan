@@ -15,7 +15,7 @@ And I'm proficient in various backend technologies including:
  ![GraphQL](https://img.shields.io/badge/-GraphQL-black?style=flat-square&logo=graphql)
  ![Express](https://img.shields.io/badge/-Express-black?style=flat-square&logo=express)
  ![Supabase](https://img.shields.io/badge/-Supabase-black?style=flat-square&logo=supabase)
- ![ASP](https://img.shields.io/badge/-ASP-black?style=flat-square&logo=asp.net)
+ ![.NET](https://img.shields.io/badge/-.NET-black?style=flat-square&logo=asp.net)
 
 I also have experience with state management tools like:
 
