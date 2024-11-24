@@ -49,7 +49,7 @@ While my core strength lies in backend development, I'm also skilled in modern f
 ## 💡 What I Do
 
 - Design and implement scalable, high-performance backend systems
-- Develop full-stack web applications, microservices using  .NET and modern frontend frameworks
+- Develop full-stack web applications,cloud native microservices using  .NET and modern frontend frameworks
 - Optimize database performance and design efficient data models
 - Implement cloud-native solutions on Azure, AWS, and Google Cloud
 - Set up CI/CD pipelines and automate deployment processes
